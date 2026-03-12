@@ -6,8 +6,10 @@
     "backgroundColor": "oklch(18.5% 0.055 320.0 / 1)",
     "mainColor": "oklch(82.0% 0.210 340.0 / 1)",
     "secondaryColor": "oklch(72.0% 0.165 285.0 / 1)",
-    "issued": true,
-    "completed": false
+    "issued": false,
+    "completed": true,
+    "completedBy": "francescolaudato",
+    "completedPR": 8113
   },
   {
     "id": "bamboo-mist",
@@ -71,7 +73,7 @@
     "mainColor": "oklch(75.0% 0.195 40.0 / 1)",
     "secondaryColor": "oklch(85.0% 0.155 70.0 / 1)",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": "shibuya-nights",
@@ -91,7 +93,9 @@
     "mainColor": "oklch(75.0% 0.035 90.0 / 1)",
     "secondaryColor": "oklch(60.0% 0.025 80.0 / 1)",
     "issued": false,
-    "completed": false
+    "completed": true,
+    "completedBy": "himanshucode-07",
+    "completedPR": 8114
   },
   {
     "id": "samurai-steel",
@@ -295,7 +299,9 @@
     "mainColor": "oklch(82.0% 0.165 195.0 / 1)",
     "secondaryColor": "oklch(90.0% 0.125 180.0 / 1)",
     "issued": false,
-    "completed": false
+    "completed": true,
+    "completedBy": "Dumbledorithm",
+    "completedPR": 8137
   },
   {
     "id": "papercraft-white",
@@ -305,7 +311,9 @@
     "mainColor": "oklch(35.0% 0.165 255.0 / 1)",
     "secondaryColor": "oklch(55.0% 0.145 200.0 / 1)",
     "issued": false,
-    "completed": false
+    "completed": true,
+    "completedBy": "biancadene",
+    "completedPR": 8200
   },
   {
     "id": "kabuki-drama",
@@ -446,7 +454,7 @@
     "backgroundColor": "oklch(12.0% 0.015 280.0 / 1)",
     "mainColor": "oklch(65.0% 0.025 270.0 / 1)",
     "secondaryColor": "oklch(55.0% 0.175 15.0 / 1)",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -517,7 +525,9 @@
     "mainColor": "oklch(68.0% 0.175 160.0 / 1)",
     "secondaryColor": "oklch(78.0% 0.145 140.0 / 1)",
     "issued": false,
-    "completed": false
+    "completed": true,
+    "completedBy": "biancadene",
+    "completedPR": 8184
   },
   {
     "id": "morning-dew",
@@ -1672,7 +1682,7 @@
     "backgroundColor": "oklch(92.0% 0.028 345.0 / 1)",
     "mainColor": "oklch(70.0% 0.165 350.0 / 1)",
     "secondaryColor": "oklch(78.0% 0.110 25.0 / 1)",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {

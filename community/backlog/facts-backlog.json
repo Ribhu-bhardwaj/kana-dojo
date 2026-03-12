@@ -254,7 +254,7 @@
   {
     "id": 43,
     "fact": "There's a Japanese word 'betsu-bara' (別腹) meaning 'separate stomach' - the idea that there's always room for dessert even when full.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -374,7 +374,7 @@
   {
     "id": 63,
     "fact": "There's a Japanese word 'aware' (哀れ) that originally just meant 'ah!' - an exclamation that evolved to represent deep emotion.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -658,7 +658,7 @@
   {
     "id": 110,
     "fact": "Japan has 'maid cafes' where waitresses in maid costumes call customers 'Master' and draw cute pictures on their food.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -862,14 +862,16 @@
   {
     "id": 144,
     "fact": "Japan has a stone you can lick to predict the weather at Kamigamo Shrine - if it tastes salty, rain is coming.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
     "id": 145,
     "fact": "The concept 'taisetsu' (大切) means precious or important - often said about relationships and feelings, not objects.",
     "issued": false,
-    "completed": false
+    "completed": true,
+    "completedBy": "biancadene",
+    "completedPR": 8201
   },
   {
     "id": 146,
@@ -1282,7 +1284,7 @@
   {
     "id": 214,
     "fact": "In many Japanese cities, you can find public 'koban' (交番) — small neighborhood police boxes that help with directions and lost items.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
