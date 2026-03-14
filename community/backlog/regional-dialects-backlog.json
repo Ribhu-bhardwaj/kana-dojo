@@ -519,7 +519,7 @@
     "note": "Characteristic Nagoya intensifier. (Set 3)",
     "id": 52,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "〜だがや",
@@ -529,7 +529,7 @@
     "note": "Strong Nagoya marker. (Set 3)",
     "id": 53,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "ぶち",
@@ -569,7 +569,7 @@
     "note": "Famous Okinawan resilience phrase. (Set 3)",
     "id": 57,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "にふぇーでーびる",
@@ -599,7 +599,7 @@
     "note": "Traditional gratitude expression. (Set 3)",
     "id": 60,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "ほんま",
@@ -609,7 +609,7 @@
     "note": "Very common in Osaka/Kyoto speech. (Set 4)",
     "id": 61,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "なんでやねん",
@@ -649,7 +649,7 @@
     "note": "Example: 食べへん = 食べない。 (Set 4)",
     "id": 65,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "しばれる",
@@ -659,7 +659,7 @@
     "note": "Used for severe winter cold. (Set 4)",
     "id": 66,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "なまら",
@@ -669,7 +669,7 @@
     "note": "Hokkaido intensifier. (Set 4)",
     "id": 67,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "したっけ",
@@ -699,7 +699,7 @@
     "note": "Reason marker in Kyushu. (Set 4)",
     "id": 70,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "よか",
@@ -719,7 +719,7 @@
     "note": "Characteristic Nagoya intensifier. (Set 4)",
     "id": 72,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "〜だがや",
@@ -1159,7 +1159,7 @@
     "note": "Prohibitive nuance. (Set 6)",
     "id": 116,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "なんくるないさ",
