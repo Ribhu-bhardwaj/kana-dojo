@@ -24,6 +24,35 @@ export default function TopBar() {
   const [isVisible, setIsVisible] = useState(true);
   const lastScrollY = useRef(0);
 
+  useEffect(() => {
+    const handleScroll = () => {
+      const currentScrollY = window.scrollY;
+      const scrollDifference = Math.abs(currentScrollY - lastScrollY.current);
+
+      // Always show when at top
+      if (currentScrollY < 10) {
+        setIsVisible(true);
+      }
+      // Hide when scrolling down (with minimum scroll distance to avoid jitter)
+      else if (
+        currentScrollY > lastScrollY.current &&
+        currentScrollY > 50 &&
+        scrollDifference > 5
+      ) {
+        setIsVisible(false);
+      }
+      // Show when scrolling up (with minimum scroll distance)
+      else if (currentScrollY < lastScrollY.current && scrollDifference > 5) {
+        setIsVisible(true);
+      }
+
+      lastScrollY.current = currentScrollY;
+    };
+
+    window.addEventListener('scroll', handleScroll, { passive: true });
+    return () => window.removeEventListener('scroll', handleScroll);
+  }, []);
+
   const navItems: NavItem[] = [
     { name: 'Kana', href: '/kana', charIcon: 'あ' },
     { name: 'Kanji', href: '/kanji', charIcon: '字' },
