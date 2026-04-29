@@ -556,8 +556,10 @@
     "game": "Onimusha series",
     "character": "Nobunaga Oda",
     "id": 56,
-    "issued": true,
-    "completed": false
+    "issued": false,
+    "completed": false,
+    "completedBy": "leeydev",
+    "completedPR": 15042
   },
   {
     "japanese": "世界を救うって、そういうことだろ？",
