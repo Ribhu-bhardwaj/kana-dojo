@@ -756,5 +756,16 @@
   "Nagano"
 ],
 "correctIndex": 0
+},
+{
+  "question": "What is the Japanese word for \"hello\"?",
+  "difficulty": "easy",
+  "answers": [
+    "Konnichiwa",
+    "Sayonara",
+    "Arigatou",
+    "Oyasumi"
+  ],
+  "correctIndex": 0
 }
 ]
